@@ -25,21 +25,7 @@ Interested in threat detection, network investigations, security automation and 
 - ⚙️ Building practical tools instead of collecting unfinished tutorials.
 - 🎧 Developing **VESPER AUDIO**, an Android music player with its own identity.
 - 📍 Chennai, India.
-
-> *I trust no packet, believe no popup, and consider "works on my machine" a security incident.*
-
----
-
-### ⟡ `featured_projects`
-
-| Project | What it does |
-|---|---|
-| 🦈 [Wireshark Analysis](https://github.com/Nobal-antony19/Wireshark-Analysis-) | Network traffic investigation and packet analysis |
-| 🔎 [Vulnerability Scanner](https://github.com/Nobal-antony19/Vulnerability-Scanner-Web_application-security-) | Python-based web application security research |
-| 🧪 [PhisTriage](https://github.com/Nobal-antony19) | Security project showcase — details coming soon |
-| 🖥️ [Web Server Compromise Detection](https://github.com/Nobal-antony19) | Sigma detection research and investigation |
-
----
+----
 
 <div align="center">
 
